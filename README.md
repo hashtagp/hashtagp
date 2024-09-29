@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hashtagp
 - 👀 I’m interested in programming, problem solving, webapp development and much more
-- 🌱 I’m currently learning c/c++, python, MySQL, Firebase rtdb
+- 🌱 I’m currently learning c/c++, python, MySQL, Firebase rtdb,MERN stack
 - 💞️ I’m looking to collaborate on problem solving and webapp development
 - 📫 How to reach me: mail me @ hashtag.p27@gmail.com and linkedin: www.linkedin.com/in/pritam-dhar-300b5725b
 
